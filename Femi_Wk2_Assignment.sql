@@ -1,4 +1,4 @@
-/* Q1 Using thew Person.Person table, write a query that outputs the Title, FullName(FirstName and  LastName), 
+/* Q1 Using the Person.Person table, write a query that outputs the Title, FullName(FirstName and  LastName), 
 Modifiedate Where FirstName Starts with D and Last Name starts with R or M Ordering By BusinessEntityId*/
 
 SELECT Title, FirstName AS 'First Name', LastName as 'lastname', ModifiedDate as 'Modified Date', BusinessEntityID
