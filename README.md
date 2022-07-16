@@ -1,2 +1,2 @@
 # SQL_Projects
-This is for SQL training
+Journey into Data Analytics - first SQL querries
